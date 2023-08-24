@@ -6,6 +6,14 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vl-pod/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vl-pod/ajs.git/issues"
+  },
+  "homepage": "https://github.com/vl-pod/ajs.git>#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
